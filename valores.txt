@@ -1,0 +1,9 @@
+9,Delorean,Anti coleo,Pegado al piso,35%,40%,15%,180
+8,El super ferrari,Anti coleo,Pegado al piso,25%,30%,20%,160
+7,Crucero,Normales,Normales,20%,25%,35%,140
+6,Perezoso,Normales,Normales,15%,20%,30%,120
+5,Perezoso,Todo Terreno,Monster Truck 5,5%,5%,10%,80
+4,Perezoso,Todo Terreno,Monster Truck 4,7%,10%,15%,100
+3,Perezoso,Todo Terreno,Monster Truck 3,10%,15%,20%,110
+2,Perezoso,Todo Terreno,Monster Truck 2,12%,17%,25%,120
+1,Perezoso,Todo Terreno,Monster Truck 1,15%,20%,30%,140

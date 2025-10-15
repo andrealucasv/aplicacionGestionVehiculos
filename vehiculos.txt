@@ -1,0 +1,14 @@
+13,barbie,the barbie ,isabella lucas,delorean,pegado al piso,rapido,35%,40%,30%,200km/h,trece.png
+23,yetzi,the beautiful yetzi,antonella lucas,super ferrari,mediano,rapidisimo,35%,40%,35%,200km/h,catorce.png
+16,Super Ferrari,The Mean Machine,El sargento Blast y el soldado Meekly,Perezoso,Todo Terreno,Monster Truck 1,15%,20%,30%,140,once.png
+6,El Troncoswagen,The arkansas Chugabug,Brutus y listus,Perezoso,Todo Terreno,Monster Truck 3,10%,15%,20%,110,diez.jpg
+24,El Superheterodino,The Turbo Terrific,Pedro Bello,Delorean,Anti coleo,Pegado al piso,35%,40%,15%,180,nueve.jpg
+22,El Alambique Veloz,The Roaring Plenty,Lucas el granjero y el Oso miedoso,Perezoso,Todo Terreno,Monster Truck 2,12%,17%,25%,120,ocho.jpg
+10,El Antiguomovil,The Bulletproof Bomb,Mafio y sus siete pandilleros,Perezoso,Todo Terreno,Monster Truck 4,7%,10%,15%,100,siete.jpg
+12,El Super Chatarra Special,The Army Surplus Special,Pierre Nodoyuna y Patan,Crucero,Normales,Normales,20%,25%,35%,140,seis.jpg
+8,El Compact Pussycat,The Compact Pussycat,Penelope Glamour,El super ferrari,Anti coleo,Pegado al piso,25%,30%,20%,160,cinco.jpg
+28,El Stuka Rakuda,TheCrimson Haybailer,El baron Hans Fritz,Perezoso,Normales,Normales,15%,20%,30%,120,cuatro.jpg
+4,El Auto/Super Convertible,Convert-a-car,El profesor Locovitch,Perezoso,Todo Terreno,Monster Truck 2,12%,17%,25%,120,tres.jpg
+2,El Espantomovil,The Crrepy Coupe,Los tenebrosos,Perezoso,Normales,Normales,15%,20%,30%,120,dos.jpg
+7,El Rocomovil,The Bouldermobile,Los hermanos macana,Perezoso,Todo Terreno,Monster Truck 5,5%,5%,10%,80,uno.jpg
+19,Toyota,Toyota,Andrea,firestone,rin 20,super,5%,10%,10%,200km/h,doce.png
